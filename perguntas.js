@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Comandos',
-    'Qual o uso dos comandos no Minecraft?'
-    'Os comandos são utilizados para auxiliar durante a jogatina ',
+    'Qual o uso dos comandos no Minecraft?', 
+    'Os comandos são utilizados para auxiliar durante a jogatina '
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Encantamentos'
-    'Tradução das palavras escritas nos encantamentos ',
-    'As palavras não tem tradução',
+    'Nether', 
+    'Em qual versão houve a atualiação do Nether ',
+    'Na 1.16.5'
 )
