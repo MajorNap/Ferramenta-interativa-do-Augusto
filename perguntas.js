@@ -5,15 +5,15 @@ criaCartao(
 )
 
 criaCartao(
-    '',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Comandos',
+    'Qual o uso dos comandos no Minecraft?'
+    'Os comandos são utilizados para auxiliar durante a jogatina'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Vilas
+    'Qual a função das vilas?'
+    'As vila, além de ser um porto seguro para os jogadores, é uma área fundamental de trocas com os moradores de lá'
 )
 
 criaCartao(
