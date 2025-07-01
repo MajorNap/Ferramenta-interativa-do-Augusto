@@ -1,11 +1,11 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Craft table'
+    'Qual a utilidade da craft table?',
+    'Basicamente é um bloco interagível que será utilizado do início ao fim do jogo'
 )
 
 criaCartao(
-    'Geografia',
+    '',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
