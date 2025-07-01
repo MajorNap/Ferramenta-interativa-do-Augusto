@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Comandos',
     'Qual o uso dos comandos no Minecraft?'
-    'Os comandos são utilizados para auxiliar durante a jogatina',
+    'Os comandos são utilizados para auxiliar durante a jogatina ',
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)',
+    'Encantamentos'
+    'Tradução das palavras escritas nos encantamentos ',
+    'As palavras não tem tradução',
 )
