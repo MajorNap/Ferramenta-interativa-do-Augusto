@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Minecraft',
+    'O que é Encantamento?',
+    'Modo de melhoramento para ferramentas e armaduras'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Biomas',
+    'Qual o melhor bioma para contrução?',
+    'A planície caso seja uma construção maior'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Minérios',
+    'Quais são os melhores minérios?',
+    'Para iniciante, é o cobre. Para os avançados, o diamante e o Netherite'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'The End',
+    'Qual as maiores utilidades do The End?',
+    'A elytra e umaa boa farm de XP'
 )
